@@ -1,4 +1,4 @@
-def parrot(argument="squak")
+def parrot(argument="Squak!")
 
   puts argument
   return argument
